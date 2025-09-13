@@ -28,7 +28,7 @@ Participants perform three separate VR trials while standing:
 
 VR Visual Exploration task
 
-VR Gameplay task
+VR Gameplay task (Song Beater Game)
 
 The order of trials is counterbalanced across participants to avoid order effects like fatigue or learning.
 
