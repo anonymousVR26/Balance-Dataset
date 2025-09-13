@@ -11,6 +11,7 @@ Informed Consent
 Before starting, participants sign an IRB-approved consent form to confirm voluntary participation.
 
 Pre-Study Questionnaires
+
 Participants complete:
 
 The ABC Scale to measure their confidence in maintaining balance
@@ -18,9 +19,11 @@ The ABC Scale to measure their confidence in maintaining balance
 A demographic survey (age, gender, VR experience, etc.)
 
 Baseline Task (No VR)
+
 Participants perform a standing visual observation task without wearing a VR headset. This provides baseline balance data from a non-immersive condition.
 
 VR Experimental Tasks
+
 Participants perform three separate VR trials while standing:
 
 VR Visual Exploration task
@@ -30,6 +33,7 @@ VR Gameplay task
 The order of trials is counterbalanced across participants to avoid order effects like fatigue or learning.
 
 Post-Study Questionnaires
+
 After completing all VR tasks, participants fill out:
 
 SSQ – Simulator Sickness Questionnaire
