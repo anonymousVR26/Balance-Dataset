@@ -3,9 +3,11 @@
 The study follows a structured flow:
 
 Study Introduction
+
 Participants are welcomed and given an explanation of the study's purpose, procedures, and expectations.
 
 Informed Consent
+
 Before starting, participants sign an IRB-approved consent form to confirm voluntary participation.
 
 Pre-Study Questionnaires
